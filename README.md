@@ -1,10 +1,10 @@
 # BrowserSec
 The tools I use to keep myself secure on the web checked with [BrowserLeaks](https://browserleaks.com/)
 
->Browser:
->>Firefox
->>>Extensions(19):
->>>>[Amazon Container](https://addons.mozilla.org/en-US/firefox/addon/amazon-container/)
+* Browser:
+  * Firefox
+    * Extensions(19):
+      * [Amazon Container](https://addons.mozilla.org/en-US/firefox/addon/amazon-container/)
 >>>>[Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/)
 >>>>[Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 >>>>[AudioContext Fingerprint Defender](https://addons.mozilla.org/en-US/firefox/addon/audioctx-fingerprint-defender/)
