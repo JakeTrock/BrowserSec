@@ -23,6 +23,7 @@ The tools I use to keep myself secure on the web checked with [BrowserLeaks](htt
       * [Random User-Agent](https://addons.mozilla.org/en-US/firefox/addon/random_user_agent/)
       * [Remove FBclid and UTM](https://addons.mozilla.org/en-US/firefox/addon/remove-fbclid-and-utm/)
       * [WebRTC Protect](https://addons.mozilla.org/en-US/firefox/addon/webrtc-protect/)
+      * [Referrer Switch](https://addons.mozilla.org/en-US/firefox/addon/referrer-switch/)
   * Config changes(about:config):
       * Network.http.sendRefererHeader : 0
       * network.trr.mode : 2
