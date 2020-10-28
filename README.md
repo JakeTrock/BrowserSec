@@ -28,6 +28,7 @@ The tools I use to keep myself secure on the web checked with [BrowserLeaks](htt
       * Network.http.sendRefererHeader : 0
       * network.trr.mode : 2
       * network.security.esni.enabled : true
+      * geo.provider.network.url : data:application/json,{"location": {"lat": 40.7590, "lng": -73.9845}, "accuracy": 27000.0}
   * Other
       * https://github.com/pyllyukko/user.js
 
